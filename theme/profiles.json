@@ -3,7 +3,7 @@
     [
         {
             //Switch "backgroundImage" to match location of au-os-M.png
-            "backgroundImage": "C:/Users/Kevin/Documents/WindowsPowerShell/au-os-M.png",
+            "backgroundImage": "C:/Users/PATH/TO/au-os-M.png",
             "backgroundImageAlignment": "bottomRight",
             "backgroundImageOpacity": 0.5,
             "backgroundImageStretchMode": "none",
@@ -24,7 +24,7 @@
         },
         {
             //Switch "backgroundImage" to match location of au-os-M.png
-            "backgroundImage": "C:/Users/Kevin/Documents/WindowsPowerShell/au-os-M.png",
+            "backgroundImage": "C:/Users/PATH/TO/au-os-M.png",
             "backgroundImageAlignment": "bottomRight",
             "backgroundImageOpacity": 0.5,
             "backgroundImageStretchMode": "none",
