@@ -37,9 +37,9 @@
 
 1. Modify [cleart.bat](theme/clear/cleart.bat) to have the correct path to [clear.txt](theme/clear/clear.txt)
 
-2. Add cleart.bat to PATH
+2. Add [clear :file_folder:](theme/clear) to PATH
    ```
-   C:\> setx path "%PATH%;C:\PATH\TO\clear\"
+   C:\Users\PATH\TO\clear
    ```
 3. `cleart` now clears the terminal and prints an ascii banner
 
