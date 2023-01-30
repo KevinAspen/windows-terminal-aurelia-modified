@@ -2,7 +2,7 @@
 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/mobilemancer/windows-terminal-aurelia/master/demo.png "Aurelia theme for Windows Terminal"
+[logo]: https://raw.githubusercontent.com/KevinAspen/windows-terminal-aurelia-modified/master/demo.png "Aurelia theme for Windows Terminal"
 
 ## Installation
 
